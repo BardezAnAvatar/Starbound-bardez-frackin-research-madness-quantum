@@ -7,3 +7,7 @@ This repo is a mod for [Starbound](https://playstarbound.com/) It is a useless s
 
 This mod does the following:
 - [X] Adds a new branch on the madness research tree for faux-quantum research. That's it.
+
+
+## Attributions
+- Atom icon appropriated from [Quantum Physics for Beginners](https://www.amazon.com/Quantum-Physics-Beginners-Understanding-Explanation-ebook/dp/B08YXNC9BT) by Carl J. Pratt, resized to 16x16 pixels
