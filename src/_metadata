@@ -1,0 +1,11 @@
+{
+  "author" : "Bardez",
+  "description" : "This mod is a useless supplement on its own (microservices meet mods!), but a utility intended to extend the following mods:\n[list]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=729480149]Frackin' Universe[/url]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883446019]Liquid Pressure Displays, Pump, and Drain[/url]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=TBD]Frackin' Universe/Universal Uncrafter Research Patch[/url]\n[/list]\n\nThis mod does the following:\n[list]\n [*] Adds a new branch on the madness research tree for bullshit quantum mechanics. That's it.\n  [list]\n   [*]To elaborate: this is for whacky things that make no sense, where you could instead replace \"quantum\" with \"magic\" to explain things poorly. This is for the bad sci-fi trope of calling things \"quantum\" to hand-wave an explanation.\n    [list]\n     [*]To elaborate further: this is a node for FUN whacky things, and made in good fun. This is the madness tree, after all.\n    [/list]\n  [/list]\n[/list]\n\n\n\n[b]Boring Stuff:[/b]\n[url=https://github.com/BardezAnAvatar/Starbound-bardez-frackin-research-madness-quantum]Source on GitHub[/url]\n\n[b]Attributions[/b]\n- Atom icon appropriated from [url=https://www.amazon.com/Quantum-Physics-Beginners-Understanding-Explanation-ebook/dp/B08YXNC9BT]Quantum Physics for Beginners[/url] by Carl J. Pratt, resized to 16x16 pixels. Fair use and all.",
+  "friendlyName" : "Frackin' Universe Research: Madness: Quantum BS",
+  "includes" : ["FrackinUniverse"],
+  "link" : "steam://url/CommunityFilePage/2901767904",
+  "name" : "bardez-frackin-research-madness-quantum",
+  "steamContentId" : "2901767904",
+  "tags" : "Crafting and Building|Miscellaneous",
+  "version" : "1.0.0"
+}
