@@ -1,0 +1,37 @@
+[
+  //blender
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/quantum_tier2",
+    "value" : {
+      "icon" : "/zb/researchTree/madnessTree/quantum.png",
+      "children" : [ ],
+      "position" : [-160, -30],
+      "price" : [["fumadnessresource", 200],["fuscienceresource", 400]],
+      "unlocks" : [ ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/basicelder/children/-",
+    "value" : "quantum_tier2"
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/quantum_tier2",
+    "value" : [ "BS Quantum Mechanics", "^orange;Tier 2^reset;\n\nEveryone knows that mechanics will lie to you and try to rip you off. Why should you believe that quantum mechanics behave any differently? They're all the same.\n\nIt doesn't matter if quantum physics works that way or not, because if you slap \"quantum\" in front of it, you can do and explain ANYTHING. Replicate, multiply, make and unmake... all made science if you call it \"quantum\".\n\nBorrow copies of something from the future, the past, an alternate dimension, whatever. It's quantum, like a library... but you don't have to return anything!" ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/ROOTQUANTUM",
+    "value" : "quantum_tier2"
+  },
+  //hidden research
+  {
+    "op" : "add",
+    "path" : "/hiddenResearch/frackinuniversemadness/-",
+    "value" : "ROOTQUANTUM"
+  }
+]
